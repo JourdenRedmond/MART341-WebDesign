@@ -1,0 +1,5 @@
+My Responses: 
+Three websites I like to visit regularly are Twitter, Instagram, and TikTok.
+The relationship between DNS and an IP address is that DNS is an internet service that translates domain names into IP addresses.
+A cookie is a small piece of data stored on a users computer by the web browser while browsing the web.
+The three essential parts of a URL are a scheme which identifies the protocol, the host, and the path.
