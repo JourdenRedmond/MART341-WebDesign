@@ -1,0 +1,3 @@
+The difference between these are the universal selectors are used to style every element on the page, element selectors are used to select all elements of a certain type, class selectors are used select elements that use the same function an ID selectors allows developers to define style rules. You might choose one over the other depending on the way that you want the website to look.
+The color palette that I used was very neutral and matched the colors of the cover of the books. The colors that I used were blue, light grey, and white.
+The once challenge that I had this week was with the colors and making sure that they were right. 
